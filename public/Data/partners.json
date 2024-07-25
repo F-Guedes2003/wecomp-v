@@ -44,7 +44,7 @@
             "src": "../logos/marlabs.png",
             "name": "Marlabs",
             "link": "https://www.marlabs.com/pt-br/",
-            "width": 135
+            "width": 120
         },
 
         {
@@ -52,7 +52,7 @@
             "src": "../logos/xmobots.webp",
             "name": "Xmobots",
             "link": "https://xmobots.com.br/",
-            "width": 125
+            "width": 105
         }
        
        
