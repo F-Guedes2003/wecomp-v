@@ -4,6 +4,7 @@ import AboutPartners from "./subcomponents/AboutPartners";
 import GroupOfPartners from "./subcomponents/GroupOfPartners";
 import ConteinerCard from "../../components/Card/ConteinerCard";
 import { useBreakpointValue } from "@chakra-ui/react";
+import GroupOfCollaborators from "./subcomponents/GroupOfCollaborators";
 
 interface IParceirosProps {
   isLandscape: boolean;
@@ -33,7 +34,7 @@ export default function Parceiros({ isLandscape }: IParceirosProps) {
     fetchPartners();
   }, []);
 
-  const width = useBreakpointValue({ base: "75vw", md: "70vw", lg: "40vw" }) ?? "80vw";
+  const width = useBreakpointValue({ base: "75vw", md: "70vw", lg: "75vw" }) ?? "80vw";
 
   return (
     <div id="parceiros" className={`partners ${isLandscape ? "partners-landscape" : ""}`}>
@@ -45,8 +46,10 @@ export default function Parceiros({ isLandscape }: IParceirosProps) {
             ) : (
               <AboutPartners />
             )}
-            <GroupOfPartners partners={realization} text="Realização" isLandscape={isLandscape} />
-            <GroupOfPartners partners={organizers} text="Organização" isLandscape={isLandscape} />
+            <div className="staff">
+              <GroupOfCollaborators partners={realization} text="Realização" isLandscape={isLandscape} />
+              <GroupOfCollaborators partners={organizers} text="Organização" isLandscape={isLandscape} />
+            </div>
             <GroupOfPartners partners={wecompSupport} text="WECOMP apoia" isLandscape={isLandscape} />
           </div>
         </ConteinerCard>

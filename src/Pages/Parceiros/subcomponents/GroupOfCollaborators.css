@@ -1,0 +1,30 @@
+.groupOfCollaborators {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    column-gap: 80px;
+    row-gap: 25px;
+}
+
+.collaboratorsTitle {
+    color: var(--font-color);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.collaboratorsTitleContainer {
+    width: fit-content;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+    padding-bottom: 1vh;
+    padding-top: 1vh;
+}
+
+
+@media screen and (max-width: 600px) {
+    .groupOfCollaborators {
+        display: flex;
+        padding: 3% 0;
+    }
+}
