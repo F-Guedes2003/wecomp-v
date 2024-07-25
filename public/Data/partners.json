@@ -45,6 +45,14 @@
             "name": "Marlabs",
             "link": "https://www.marlabs.com/pt-br/",
             "width": 135
+        },
+
+        {
+            "id": 6,
+            "src": "../logos/xmobots.webp",
+            "name": "Xmobots",
+            "link": "https://xmobots.com.br/",
+            "width": 135
         }
        
        
