@@ -78,7 +78,7 @@
 
 @media screen and (max-width:1024px) {
     .banner-image {
-        margin-left: 4%;
+        margin-left: 20%;
     }
 
 }
@@ -94,7 +94,7 @@
 
 @media screen and (max-width: 960px) {
     .banner-image {
-        margin-left: 5%;
+        margin-left: 20%;
     }
 }
 
