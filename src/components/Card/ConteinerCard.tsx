@@ -5,9 +5,10 @@ interface iConteinerCardProps {
   children: React.ReactNode | React.ReactNode[];
   heigth: string;
   width: string | { base: string; md: string; lg: string };
+  padding: string;
 }
 
-export default function ConteinerCard({ children, heigth, width }: iConteinerCardProps) {
+export default function ConteinerCard({ children, heigth, width, padding }: iConteinerCardProps) {
   return (
     <Card
       w={width}
@@ -17,6 +18,7 @@ export default function ConteinerCard({ children, heigth, width }: iConteinerCar
       color={"white"}
       h={heigth}
       mb={"2%"}
+      p={padding}
     >
       {children}
     </Card>

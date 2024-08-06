@@ -39,7 +39,7 @@ export default function Parceiros({ isLandscape }: IParceirosProps) {
   return (
     <div id="parceiros" className={`partners ${isLandscape ? "partners-landscape" : ""}`}>
       <div className="conteinerCard">
-        <ConteinerCard heigth="auto" width={width}>
+        <ConteinerCard heigth="auto" width={width} padding={"5vw"} >
           <div className="partnersTile">
             {haspartner ? (
               <GroupOfPartners partners={supporters} text="Apoiadores" isLandscape={isLandscape} />
