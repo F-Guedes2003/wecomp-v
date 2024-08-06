@@ -16,7 +16,7 @@ export default function Programacao() {
   return (
     <div id="programacao" className="schedule">
       <div className={hasEvents ? "ScheduleConteiner" : "conteiner-text"}>
-        <ConteinerCard width={hasEvents ? widthCarouselCard : width} heigth="auto">
+        <ConteinerCard width={hasEvents ? widthCarouselCard : width} heigth="auto" padding={"auto"}>
           {" "}
           {hasEvents === false ? "" : <Header title="Programação" />}
           {hasEvents === false ? (

@@ -9,7 +9,7 @@ export default function Preview() {
   return (
     <div id="eventosanteriores" className="eventos-anteriores">
       <div className="conteinerEdition">
-        <ConteinerCard width="fit-content" heigth="fit-content">
+        <ConteinerCard width="fit-content" heigth="fit-content" padding={"auto"}>
           <Header title="Eventos Anteriores" />
           <div className="container">
             <Carousel>

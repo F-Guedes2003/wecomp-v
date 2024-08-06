@@ -13,7 +13,7 @@ export default function Local({ isLandscape }: ILocationProps) {
   return (
     <div id="local" className={`local ${isLandscape ? "local-landscape" : ""}`}>
       <div className="conteinerLocation">
-        <ConteinerCard heigth="fit-content" width={width}>
+        <ConteinerCard heigth="fit-content" width={width} padding={"auto"} >
           <h1 className="title">Locais do Evento </h1>
           <div className="locations">
             {Locations.map((location) => {
