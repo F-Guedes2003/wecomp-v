@@ -18,7 +18,8 @@ export default function ConteinerCard({ children, heigth, width, padding }: iCon
       color={"white"}
       h={heigth}
       mb={"2%"}
-      p={padding}
+      pb={padding}
+      pt={padding}
     >
       {children}
     </Card>

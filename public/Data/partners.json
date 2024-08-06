@@ -5,14 +5,14 @@
             "src": "../logos/onesix.png",
             "name": "OneSix",
             "link": "https://onesix.global/",
-            "width": 130
+            "width": 110
         },
         {
             "id": 2,
             "src": "../logos/logoIFSPpreto.png",
             "name": "IFSP - São Carlos",
             "link": "https://portais.ifsp.edu.br/scl/",
-            "width": 185
+            "width": 195
         }
         
     ],
