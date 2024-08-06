@@ -22,21 +22,21 @@
             "src": "../logos/onovolab.png",
             "name": "Onovolab",
             "link": "https://onovolab.com",
-            "width": 192
+            "width": 182
         },
         {
             "id": 2,
             "src": "../logos/onesix.png",
             "name": "OneSix",
             "link": "https://onesix.global/",
-            "width": 150
+            "width": 110
         },
         {
             "id": 3,
             "src": "../logos/softable-preto.png",
             "name": "Softable",
             "link": "https://softable.com.br",
-            "width": 200
+            "width": 180
         },
 
         {
@@ -44,7 +44,7 @@
             "src": "../logos/marlabs.png",
             "name": "Marlabs",
             "link": "https://www.marlabs.com/pt-br/",
-            "width": 188
+            "width": 178
         },
 
         {
@@ -60,7 +60,7 @@
             "src": "../logos/compassUol.png",
             "name": "compassUol",
             "link": "https://compass.uol/pt/home/",
-            "width": 230
+            "width": 210
         }
        
        
