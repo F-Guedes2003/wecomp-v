@@ -5,7 +5,7 @@ interface iConteinerCardProps {
   children: React.ReactNode | React.ReactNode[];
   heigth: string;
   width: string | { base: string; md: string; lg: string };
-  padding: string;
+  padding?: string;
 }
 
 export default function ConteinerCard({ children, heigth, width, padding }: iConteinerCardProps) {
