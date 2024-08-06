@@ -5,14 +5,14 @@
             "src": "../logos/onesix.png",
             "name": "OneSix",
             "link": "https://onesix.global/",
-            "width": 100
+            "width": 130
         },
         {
             "id": 2,
             "src": "../logos/logoIFSPpreto.png",
             "name": "IFSP - São Carlos",
             "link": "https://portais.ifsp.edu.br/scl/",
-            "width": 165
+            "width": 185
         }
         
     ],
@@ -22,21 +22,21 @@
             "src": "../logos/onovolab.png",
             "name": "Onovolab",
             "link": "https://onovolab.com",
-            "width": 142
+            "width": 192
         },
         {
             "id": 2,
             "src": "../logos/onesix.png",
             "name": "OneSix",
             "link": "https://onesix.global/",
-            "width": 100
+            "width": 150
         },
         {
             "id": 3,
             "src": "../logos/softable-preto.png",
             "name": "Softable",
             "link": "https://softable.com.br",
-            "width": 150
+            "width": 200
         },
 
         {
@@ -44,7 +44,7 @@
             "src": "../logos/marlabs.png",
             "name": "Marlabs",
             "link": "https://www.marlabs.com/pt-br/",
-            "width": 138
+            "width": 188
         },
 
         {
@@ -52,7 +52,15 @@
             "src": "../logos/xmobots.png",
             "name": "Xmobots",
             "link": "https://xmobots.com.br/",
-            "width": 200
+            "width": 250
+        },
+
+        {
+            "id": 6,
+            "src": "../logos/compassUol.png",
+            "name": "compassUol",
+            "link": "https://compass.uol/pt/home/",
+            "width": 230
         }
        
        
@@ -63,7 +71,7 @@
             "src": "../logos/pet.png",
             "name": "PET/ADS",
             "link": "http://petads.paginas.scl.ifsp.edu.br",
-            "width": 115
+            "width": 140
         }
     ],
 
@@ -73,7 +81,7 @@
             "src": "../logos/logoBeaba.png",
             "name": "Beaba",
             "link": "https://beaba.org/",
-            "width": 100
+            "width": 150
         }
     ],
 
