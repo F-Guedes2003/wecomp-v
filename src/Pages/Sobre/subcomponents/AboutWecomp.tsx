@@ -4,7 +4,7 @@ export default function Infos() {
   return (
     <>
       <div className="event-description">
-        <h3>Sobre a wecomp</h3>
+        <h3>Sobre a Wecomp</h3>
         <p>
           A Wecomp é a semana da computação do IFSP São Carlos, que neste ano realizará sua quinta edição. O objetivo do
           evento é proporcionar uma maior interação entre os estudantes, o mercado de tecnologia e a cidade de São
