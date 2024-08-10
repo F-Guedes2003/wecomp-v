@@ -8,147 +8,105 @@
     margin: auto;
     overflow: hidden;
     padding-bottom: 10%;
-}
-
-.banner-container {
+  }
+  
+  .banner-container {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-}
-
-.banner-image {
+  }
+  
+  .banner-image {
     width: 100%;
     max-width: 100vh;
-
-    margin: auto;
     object-fit: cover;
-    margin-left: 30%;
-}
-
-.banner-title {
+    padding: 20px;
+  }
+  
+  .banner-title {
     margin: 30px 0 20px 0;
     font-size: var(--subtitle-font-size);
     font-weight: 800;
     text-align: center;
-}
-
-.banner-text {
+  }
+  
+  .banner-text {
     margin: 0 10px;
     font-size: var(--subtitle-font-size);
     font-weight: 400;
     text-align: center;
-}
-
-.enrollment-period {
+  }
+  
+  .enrollment-period {
     margin-top: 40px;
     font-size: 30px;
     animation: pulse 0.7s infinite;
     animation-direction: alternate;
     -webkit-animation-name: pulse;
     animation-name: pulse;
-}
-
-@-webkit-keyframes pulse {
+  }
+  
+  @-webkit-keyframes pulse {
     0% {
-        -webkit-transform: scale(1);
+      -webkit-transform: scale(1);
     }
-
+  
     100% {
-        -webkit-transform: scale(1.1);
+      -webkit-transform: scale(1.1);
     }
-}
-
-@keyframes pulse {
+  }
+  
+  @keyframes pulse {
     0% {
-        transform: scale(1);
+      transform: scale(1);
     }
-
+  
     100% {
-        transform: scale(1.1);
+      transform: scale(1.1);
     }
-}
-
-@media screen and (max-width: 1280px) {
-    .banner-image {
-        margin-left: 25%;
-    }
-}
-
-@media screen and (max-width:1024px) {
-    .banner-image {
-        margin-left: 20%;
-    }
-
-}
-
-
-
-@media screen and (max-width: 1024px) and (max-height: 600px) {
-    .banner-image {
-        margin-left: 25%;
-    }
-}
-
-
-@media screen and (max-width: 960px) {
-    .banner-image {
-        margin-left: 20%;
-    }
-}
-
-
-
-
-@media screen and (max-width: 670px) {
+  }
+  
+  @media screen and (max-width: 670px) {
     .banner {
-        margin-bottom: 10vh;
+      margin-bottom: 10vh;
     }
-
-    .banner-image{
-        margin-left: 5%;
-    }
-
+  
     .banner-title {
-        font-size: var(--mobile-title-font-size);
+      font-size: var(--mobile-title-font-size);
     }
-
+  
     .banner-text {
-        font-size: var(--mobile-text-font-size);
+      font-size: var(--mobile-text-font-size);
     }
-
+  
     .enrollment-period {
-        font-size: 23px;
+      font-size: 23px;
     }
-}
-
-@media screen and (max-width: 460px) {
-    .banner-image {
-        margin-left: 3%;
-    }
-
-
+  }
+  
+  @media screen and (max-width: 460px) {
     .banner-text {
-        font-size: 15px;
+      font-size: 15px;
     }
-
+  
     .enrollment-period {
-        font-size: 20px;
+      font-size: 20px;
     }
-}
-
-@media screen and (max-width: 280px) {
+  }
+  
+  @media screen and (max-width: 280px) {
     .banner-title {
-        font-size: 20px;
-        width: 100%;
+      font-size: 20px;
+      width: 100%;
     }
-}
-
-@media screen and (max-width: 260px) {
+  }
+  
+  @media screen and (max-width: 260px) {
     .banner {
-        margin-bottom: 200vh;
-        margin-left: 4%;
-        margin-top: 2%;
+      margin-bottom: 200vh;
+      margin-left: 4%;
+      margin-top: 2%;
     }
-}
+  }
