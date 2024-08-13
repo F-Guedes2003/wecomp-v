@@ -9,7 +9,7 @@ import ConteinerCard from "../../components/Card/ConteinerCard";
 import { useBreakpointValue } from "@chakra-ui/react";
 
 export default function Programacao() {
-  const [hasEvents] = useState(false);
+  const [hasEvents] = useState(true);
   const width = useBreakpointValue({ base: "80vw", md: "50vw", lg: "40vw" }) ?? "80vw";
   const widthCarouselCard = "fit-content";
 
