@@ -5,28 +5,26 @@ interface EventStatusI {
 }
 function EventStatus({ status }: EventStatusI) {
   let status_color;
-  let status_height;
+  let font_size;
   switch (status) {
     case "ESGOTOU!":
       status_color = "#800000 ";
-      status_height = "500px"
       break;
     case "ÚLTIMAS VAGAS!":
       status_color = "#FF9900";
-      status_height = "60px";
       break;
     case "VAGAS ABERTAS!":
       status_color = "#256600"
-      status_height = "60px";
+      font_size = "15px";
       break;
     case "INSCRIÇÕES EM BREVE!":
       status_color = "#FF9900";
-      status_height = "60px";
+      font_size = "12px";
       break;
   }
   return (
-    <div className="event-status" style={{ backgroundColor: status_color, height: status_height}}>
-      <p>{status}</p>
+    <div className="event-status" style={{ backgroundColor: status_color}}>
+      <p style={{fontSize: font_size}}>{status}</p>
     </div>
   );
 }
