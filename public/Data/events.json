@@ -28,7 +28,7 @@
             "vacancies": 220,
             "status": "EM BREVE!",
             "location": "IFSP",
-            "classification": "basico",
+            "classification": "Livre",
             "description": "Palestra da equipe Marlabs."
         },
         {
@@ -45,7 +45,7 @@
             "vacancies": 110,
             "status": "EM BREVE!",
             "location": "IFSP",
-            "classification": "basico",
+            "classification": "Livre",
             "description": "Palestra da equipe Marlabs."
         },
         {
@@ -63,7 +63,7 @@
             "vacancies": 110,
             "status": "EM BREVE!",
             "location": "IFSP",
-            "classification": "basico",
+            "classification": "Livre",
             "description": "Palestra da equipe Softable."
         }
     ]
