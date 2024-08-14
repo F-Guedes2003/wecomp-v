@@ -17,9 +17,9 @@ function EventStatus({ status }: EventStatusI) {
       status_color = "#256600"
       font_size = "15px";
       break;
-    case "INSCRIÇÕES EM BREVE!":
+    case "EM BREVE!":
       status_color = "#FF9900";
-      font_size = "12px";
+      font_size = "17px";
       break;
   }
   return (
