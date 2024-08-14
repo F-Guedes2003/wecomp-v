@@ -7,7 +7,6 @@
     height: var(--page-height);
     margin: auto;
     overflow: hidden;
-    padding-bottom: 10%;
   }
   
   .banner-container {
