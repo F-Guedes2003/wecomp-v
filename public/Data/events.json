@@ -3,7 +3,7 @@
         {
             "id": 28.1,
             "name": "Abertura oficial",
-            "subTitle": "",
+            "subTitle": "subtitle",
             "image": "../../eventsImages/onovolab.png",
             "imageDesc": "OnovoLab",
             "author": "ONOVOLAB",
@@ -18,7 +18,7 @@
         {
             "id": 28.2,
             "name": "Palestra Xmobots",
-            "subTitle": "",
+            "subTitle": "subtitle",
             "image": "../../eventsImages/Xmobots.png",
             "imageDesc": "Xmobots",
             "bio": "A Xmobots é uma empresa de tecnologia que utiliza inteligência artificial e engenharia robótica no desenvolvimento de soluções que resolvem dores de crescimento da economia global. Por meio da fabricação de hardware e software para RPA(Remotely Pilot Aircraft), garante maior eficácia em processos produtivos de segmentos vitais para a humanidade como Agro e Geo, Defesa e Segurança, e Ambiental. Suas soluções reduzem os custos de operação,reduzem o tempo necessário empregado e aumentamo controle e precisão.",
@@ -36,7 +36,7 @@
         {
             "id": 28.3,
             "name": "Palestra Marlabs",
-            "subTitle": "",
+            "subTitle": "subtitle",
             "image": "../../eventsImages/talkMarlabs.png",
             "imageDesc": "Marlabs",
             "bio": "A Marlabs, acredita na magia das possibilidades, no poder da inovação e na beleza de criar algo único para capacitar as empresas a preencher a lacuna entre a sua visão e a realidade. A jornada da empresa, moldada pela evolução da indústria e pela transformação tecnológica, dotou-a de conhecimentos inestimáveis, permitindo-a oferecer uma gama completa de soluções tecnológicas avançadas, adaptadas às necessidades e objetivos distintos de seus clientes empresariais globais. Acreditam no poder da colaboração e promovem uma cultura de co-criação, onde as ideias de seus colaboradores se encontram com a capacidade tecnológica da empresa para criar soluções e transformar a visão deles em realidade.",
@@ -54,7 +54,7 @@
         {
             "id": 29.1,
             "name": "Softable",
-            "subTitle": "Palestra da equipe Softable",
+            "subTitle": "subtitle da equipe Softable",
             "image": "../../eventsImages/Softable.png",
             "imageDesc": "Softable",
             "bio": "A Softable nasceu no centro da inovação brasileira. Pólo que concentra duas das maiores universidades brasileiras, além de centenas de startups e empresas de grande impacto nacional e mundial.",

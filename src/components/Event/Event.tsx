@@ -11,6 +11,7 @@ export default function Event({
   vacancies,
   active,
   name,
+  subTitle,
   image,
   imageDesc,
   status,
@@ -46,7 +47,7 @@ export default function Event({
         bio={bio}
         date={date}
         time={time}
-        subTitle={""}
+        subTitle={subTitle}
         id={0}
         image={""}
         imageDesc={""}

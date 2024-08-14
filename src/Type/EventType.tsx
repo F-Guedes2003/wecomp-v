@@ -1,6 +1,7 @@
 export interface iEvent {
   id: number;
   name: string;
+  subTitle: string;
   image: string;
   imageDesc: string;
   author: string;

@@ -27,6 +27,7 @@ export default function Programacao() {
                 <Event
                   key={event.id}
                   name={event.name}
+                  subTitle={event.subTitle}
                   image={event.image}
                   imageDesc={event.imageDesc}
                   status={event.status}
