@@ -18,11 +18,11 @@
         {
             "id": 28.2,
             "name": "Palestra Xmobots",
-            "subTitle": "",
+            "subTitle": "Engenharia de software na prática",
             "image": "../../eventsImages/Xmobots.png",
             "imageDesc": "Xmobots",
-            "bio": "A Xmobots é uma empresa de tecnologia que utiliza inteligência artificial e engenharia robótica no desenvolvimento de soluções que resolvem dores de crescimento da economia global. Por meio da fabricação de hardware e software para RPA(Remotely Pilot Aircraft), garante maior eficácia em processos produtivos de segmentos vitais para a humanidade como Agro e Geo, Defesa e Segurança, e Ambiental. Suas soluções reduzem os custos de operação,reduzem o tempo necessário empregado e aumentamo controle e precisão.",
-            "author": "Equipe Xmobots",
+            "bio": "Emerson R. de Toledo é um xecutivo com sólida carreira na área de Tecnologia, com foco em Pesquisa & Desenvolvimento (P&D). Tem ocupado cargos de gestão estratégica nos últimos 19 anos em grandes multinacionais do segmento de telecomunicações, P&D, tecnologia da informação e automotivo.",
+            "author": "Emerson R. de Toledo",
             "date": "03 de setembro",
             "time": "19:00 às 21:00",
             "link": "https://forms.gle/DLzmDh1j7UDSu7f28",
@@ -31,7 +31,7 @@
             "status": "EM BREVE!",
             "location": "IFSP",
             "classification": "Livre",
-            "description": "Palestra da equipe xmobots."
+            "description": "Nesta palestra será oferecida uma visão geral da Xmobots e como aplicamos a Engenharia de Software na prática."
         },
         {
             "id": 28.3,
