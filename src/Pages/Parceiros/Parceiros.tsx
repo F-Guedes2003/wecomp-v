@@ -49,8 +49,9 @@ export default function Parceiros({ isLandscape }: IParceirosProps) {
             <div className="staff">
               <GroupOfCollaborators partners={realization} text="Realização" isLandscape={isLandscape} />
               <GroupOfCollaborators partners={organizers} text="Organização" isLandscape={isLandscape} />
+              <GroupOfCollaborators partners={wecompSupport} text="Wecomp apoia" isLandscape={isLandscape} />
             </div>
-            <GroupOfPartners partners={wecompSupport} text="WECOMP apoia" isLandscape={isLandscape} />
+
           </div>
         </ConteinerCard>
       </div>
