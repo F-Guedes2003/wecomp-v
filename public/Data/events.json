@@ -53,12 +53,12 @@
         },
         {
             "id": 29.1,
-            "name": "Softable",
-            "subTitle": "",
+            "name": "Palestra Softable",
+            "subTitle": "Além do hype: criando uma empresa de tecnologia do zero",
             "image": "../../eventsImages/Softable.png",
             "imageDesc": "Softable",
-            "bio": "A Softable nasceu no centro da inovação brasileira. Pólo que concentra duas das maiores universidades brasileiras, além de centenas de startups e empresas de grande impacto nacional e mundial.",
-            "author": "Equipe Softable",
+            "bio": "Há 7 anos, numa sala de apartamento, ainda na faculdade, George Tamanaka e Gustavo Kobayashi criaram a Softable, que tem a missão de devolver às empresas o controle sobre seus processos, oferecendo aos clientes soluções simples, acessíveis e transparentes que resolvem problemas reais.",
+            "author": "George tamanaka e Gustavo Kobayashi",
             "date": "05 de setembro",
             "time": "19:00 às 21:00",
             "link": "https://forms.gle/7BMKazi7Q4d9GPQy6",
@@ -67,7 +67,7 @@
             "status": "EM BREVE!",
             "location": "IFSP",
             "classification": "Livre",
-            "description": "Palestra da equipe Softable."
+            "description": "Queremos te contar o que ninguém contou sobre empreender ainda na faculdade. Quais foram os desafios e aprendizados até a Softable se tornar parceira de tecnologia de algumas das maiores marcas do mundo."
         }
     ]
 }
