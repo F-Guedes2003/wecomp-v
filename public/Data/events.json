@@ -96,7 +96,7 @@
             "bio": "Emerson R. de Toledo é um xecutivo com sólida carreira na área de Tecnologia, com foco em Pesquisa & Desenvolvimento (P&D). Tem ocupado cargos de gestão estratégica nos últimos 19 anos em grandes multinacionais do segmento de telecomunicações, P&D, tecnologia da informação e automotivo.",
             "author": "Emerson R. de Toledo",
             "date": "03 de setembro",
-            "time": "19:00 às 21:00",
+            "time": "19:00 às 20:40",
             "link": "https://forms.gle/DLzmDh1j7UDSu7f28",
             "active": false,
             "vacancies": 220,
@@ -104,6 +104,24 @@
             "location": "IFSP",
             "classification": "Livre",
             "description": "Nesta palestra será oferecida uma visão geral da Xmobots e como aplicamos a Engenharia de Software na prática."
+        },
+        {
+            "id": 3.3,
+            "name": "Palestra Compass UOL",
+            "subTitle": "Talk da Compass UOL",
+            "image": "../../eventsImages/talkCompassUOL.png",
+            "imageDesc": "Compass UOL",
+            "bio": "",
+            "author": "Equipe Compass UOL",
+            "date": "03 de setembro",
+            "time": "21:00 às 22:30",
+            "link": "https://forms.gle/DLzmDh1j7UDSu7f28",
+            "active": false,
+            "vacancies": 110,
+            "status": "EM BREVE!",
+            "location": "IFSP",
+            "classification": "Livre",
+            "description": "Palestra da Compass UOL."
         },
         {
             "id": 28.3,
@@ -194,6 +212,24 @@
             "location": "IFSP",
             "classification": "Básico",
             "description": "Prepare-se para uma imersão prática no universo da automação com RPA! Nesse mini curso você descobrirá como a poderosa ferramenta Automation Edge pode transformar tarefas repetitivas em processos automatizados, revolucionando a eficiência operacional. Durante o curso, você não só aprenderá os fundamentos do RPA, mas também colocará a mão na massa, construindo seu próprio robô para ver a automação em ação. Entre de cabeça no futuro da tecnologia!"
+        },
+        {
+            "id": 10.1,
+            "name": "Palestra F1rst",
+            "subTitle": "Talk da F1rst",
+            "image": "../../eventsImages/talkF1rst.png",
+            "imageDesc": "F1rst",
+            "bio": "A F1rst promove serviços e experiências para os mais de 60 milhões de clientes de todo ecossistema Santander Brasil, Coligadas e Grupo Santander na América do Sul.",
+            "author": "Equipe F1rst",
+            "date": "06 de setembro",
+            "time": "19:00",
+            "link": "https://forms.gle/7BMKazi7Q4d9GPQy6",
+            "active": false,
+            "vacancies": 110,
+            "status": "EM BREVE!",
+            "location": "IFSP",
+            "classification": "Básico",
+            "description": "Palestra da equipe F1rst"
         }
     ]
 }
