@@ -215,8 +215,8 @@
         },
         {
             "id": 10.1,
-            "name": "Palestra F1rst",
-            "subTitle": "Talk da F1rst",
+            "name": "Palestra F1RST",
+            "subTitle": "Talk da F1RST",
             "image": "../../eventsImages/talkF1rst.png",
             "imageDesc": "F1rst",
             "bio": "A F1rst promove serviços e experiências para os mais de 60 milhões de clientes de todo ecossistema Santander Brasil, Coligadas e Grupo Santander na América do Sul.",
@@ -229,7 +229,7 @@
             "status": "EM BREVE!",
             "location": "IFSP",
             "classification": "Básico",
-            "description": "Palestra da equipe F1rst"
+            "description": "Palestra da equipe F1RST"
         }
     ]
 }
