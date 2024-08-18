@@ -1,5 +1,5 @@
 .eventTitle {
-    font-size: 21px;
+    font-size: 16px;
     color: #fff;
     height: 150px;
     display: flex;
@@ -65,7 +65,7 @@
 
 @media screen and (max-width : 400px) {
     .eventTitle {
-        font-size: 18px;
+        font-size: 14px;
     }
 
     .eventBanner {
