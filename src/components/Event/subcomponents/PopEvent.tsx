@@ -49,7 +49,7 @@ export default function PopUpEvent({
           )}
           {vacancies ? <p>Quantidade de vagas: {vacancies}</p> : <></>}
           <div className="badge-line">
-            {classification ? <p>Dificuldade:</p> : <></>}
+            {classification ? <p>Dificuldade: {classification}</p> : <></>}
             <ClassificationBadge classification={classification} />
           </div>
           <p className="location">Local: {location}</p>
