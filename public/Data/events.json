@@ -144,9 +144,9 @@
         {
             "id": 29.1,
             "name": "Git e GitHub: do mínimo que você precisa saber ao deploy no Vercel",
-            "subTitle": "Além do hype: criando uma empresa de tecnologia do zero",
+            "subTitle": "",
             "image": "../../eventsImages/Lucas.jpeg",
-            "imageDesc": "Softable",
+            "imageDesc": "Professor Lucas Oliveira",
             "bio": "Lucas é um cientista da computação que se diverte projetando e desenvolvendo software há 20 anos. É professor do IFSP São Carlos desde 2015 e atual tutor do PET/ADS. Fhelippe, Hugo e Eduardo Derisso são alunos do curso de ADS do IFSP e bolsistas do grupo PET/ADS. ",
             "author": "Lucas Oliveira",
             "date": "05 de setembro",
@@ -160,7 +160,25 @@
             "description": "Neste minicurso, você aprenderá os conceitos básicos do Git, capacitando-o a usar essa ferramenta no dia a dia. Também será apresentada uma visão geral do GitHub e como integrá-lo ao Vercel para realizar deploys automáticos de páginas web."
         },
         {
-            "id": 29.1,
+            "id": 29.2,
+            "name": "Introdução à Ciência de Dados com Python",
+            "subTitle": "",
+            "image": "../../eventsImages/Bianca.png",
+            "imageDesc": "Bianca Antonietti",
+            "bio": "Bianca é estudante do 5º semestre de Análise e Desenvolvimento de Sistemas do IFSP. É integrante do PET (Programa de Educação Tutorial), onde vem desenvolvendo projetos que abrangem Análise e Ciência de Dados.",
+            "author": "Bianca Carvalio Antonietti",
+            "date": "05 de setembro",
+            "time": "14:00 às 17:00",
+            "link": "https://forms.gle/7BMKazi7Q4d9GPQy6",
+            "active": false,
+            "vacancies": 30,
+            "status": "EM BREVE!",
+            "location": "IFSP",
+            "classification": "Livre",
+            "description": "Este minicurso oferece uma introdução prática e teórica à Ciência de Dados, abordando os principais conceitos e ferramentas para quem deseja começar na área. Os participantes aprenderão a manipular e analisar dados com Pandas e Numpy, além de criar visualizações com Matplotlib e Seaborn. O curso inclui ainda uma introdução ao Machine Learning com Scikit-learn, envolvendo etapas como preparação de dados, treinamento de modelos e avaliação de desempenho."
+        },
+        {
+            "id": 29.3,
             "name": "Palestra Softable",
             "subTitle": "Além do hype: criando uma empresa de tecnologia do zero",
             "image": "../../eventsImages/Softable.png",
