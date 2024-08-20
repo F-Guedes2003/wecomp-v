@@ -124,7 +124,25 @@
             "description": "Palestra da Compass UOL."
         },
         {
-            "id": 28.3,
+            "id": 4.1,
+            "name": "Introdução ao FAST API",
+            "subTitle": "",
+            "image": "../../eventsImages/Pyladies.png",
+            "imageDesc": "Juliana e Ana Dulce",
+            "bio": "Juliana Karoline de Sousa é bacharel em Ciência da Computação (UFSCar) e trabalha com FastAPI há 3 anos. É co-fundadora e organizadora do PyLadies São Carlos e do grupy-sanca. Além de desenvolvimento web, fala bastante sobre IoT, robótica e MicroPython. Ana Dulce Padovan é desenvolvedora Python por profissão, organizadora de eventos de Python e do PyLadies São Carlos nas horas vagas <3",
+            "author": "Juliana Karoline de Sousa e Ana Dulce Padovan",
+            "date": "04 de setembro",
+            "time": "14:00 às 17:00",
+            "link": "https://forms.gle/DLzmDh1j7UDSu7f28",
+            "active": false,
+            "vacancies": 30,
+            "status": "EM BREVE!",
+            "location": "IFSP",
+            "classification": "Livre",
+            "description": "Nesse minicurso iremos aprender como criar uma API usando o FastAPI, que é um dos frameworks mais populares para desenvolvimento web com Python. Através de um exemplo mão na massa, venha conhecer sobre o protocolo HTTP, a arquitetura REST e o conceito das operações CRUD. Necessário saber o básico de Python para conseguir acompanhar o conteúdo prático."
+        },
+        {
+            "id": 4.2,
             "name": "Palestra Marlabs",
             "subTitle": "Inovação Colaborativa: Estratégias para Encantar clientes com qualidade e trabalho em equipe",
             "image": "../../eventsImages/talkMarlabs.png",
