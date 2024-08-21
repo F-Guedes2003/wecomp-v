@@ -125,6 +125,24 @@
         },
         {
             "id": 4.1,
+            "name": "Visita técnica a F1RST com palestra dupla.",
+            "subTitle": "",
+            "image": "../../eventsImages/visita.jpeg",
+            "imageDesc": "F1RST",
+            "bio": "Palestra 1: Carlos Henrique Meirelles é Gestor da Estação 33 - polo de inovação da F1RST Santander em São Carlos-SP, um espaço inovador e multidiciplinar com mais de 270 profissionais de TI. É Especialista em ESG, Gestão de Marketing e Gestão de Mudanças. Helida Luana de Sousa Oliveira Costa é COE de Qualidade na F1RST, formada em Sistemas de Informação – Unicep, Especialista em Qualidade de Software – Unisinos e Graduanda em Gestão de Projetos – Esalq USP. Palestra 2: Rafael Vinicius Polato Passador é graduado em Ciência da Computação (UFSCar) e mestrando em Ciência da Computação (UFSCar). Thiago Aparecido Goncalves da Costa é graduado em Ciência da Computação (UNIVEM) e mestre em Ciência da Computação e Matemática Computacional (USP).",
+            "author": "Carlos H. Meirelles, Helida Costa, Rafael Passador e Thiago da Costa.",
+            "date": "04 de setembro",
+            "time": "09:00 às 11:30",
+            "link": "https://forms.gle/DLzmDh1j7UDSu7f28",
+            "active": false,
+            "vacancies": 40,
+            "status": "EM BREVE!",
+            "location": "IFSP",
+            "classification": "Livre",
+            "description": "A visita técnica a Estação 33 da F1RST, situada no ONOVOLAB contará com duas palestras incríveis e detalhes do próximo processo seletivo. Palestra 1: \"F1RST Day: Como é Trabalhar na Estação 33?\". Palestra 2: \"Data Products na F1RST - Estação 33: Como criar produtos de dados e revolucionar a jornada do Cliente\""
+        },
+        {
+            "id": 4.1,
             "name": "Introdução ao FAST API",
             "subTitle": "",
             "image": "../../eventsImages/Pyladies.png",
@@ -178,7 +196,7 @@
             "description": "Neste minicurso, você aprenderá os conceitos básicos do Git, capacitando-o a usar essa ferramenta no dia a dia. Também será apresentada uma visão geral do GitHub e como integrá-lo ao Vercel para realizar deploys automáticos de páginas web."
         },
         {
-            "id": 29.2,
+            "id": 29.3,
             "name": "Introdução à Ciência de Dados com Python",
             "subTitle": "",
             "image": "../../eventsImages/Bianca.png",
