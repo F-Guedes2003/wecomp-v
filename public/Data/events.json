@@ -302,6 +302,24 @@
             "location": "IFSP",
             "classification": "Básico",
             "description": "A F1RST ministrará duas palestras:  \"Testes de Software e sua  Importância na Qualidade de Software.\" (19h às 20h) e \"Área de Arquitetura na Estação 33: como podemos melhorar a produtividade de equipes internas pela adoção de plataformas globais impulsionadas pela inteligência artificial.\" (20h às 21h)."
+        }, 
+        {
+            "id": 10.2,
+            "name": "Dominando Modelos de IA",
+            "subTitle": "Públicos e Privados",
+            "image": "../../eventsImages/ia.png",
+            "imageDesc": "F1RST",
+            "bio": "Ricardo Carneiro possui grande conhecimento em plataformas Microsoft, com uma sólida base técnica em diversas tecnologias e ferramentas. Tem vasta experiência em .NET, além de habilidades avançadas em tecnologias de infraestrutura como Docker, Kubernetes, AKS e Azure. Já atuou com integração de sistemas utilizando RabbitMQ, Azure Service Bus e MassTransit. Ao longo de sua carreira, desenvolveu uma variedade de aplicações, incluindo APIs Web (Core e Standard), aplicativos integrados com microscópios digitais e sistemas automatizados de postagem em redes sociais. Também possui experiência com  extração de dados por meio de Web Scrapping e o trabalho com diversos bancos de dados, como SQL Server, Oracle, PostgreSQL, MongoDB e RavenDB.",
+            "author": "Ricardo Carneiro e Fabiano Passos (DOMVS IT)",
+            "date": "06 de setembro",
+            "time": "14:00 às 17",
+            "link": "https://forms.gle/7BMKazi7Q4d9GPQy6",
+            "active": false,
+            "vacancies": 30,
+            "status": "EM BREVE!",
+            "location": "IFSP",
+            "classification": "Básico",
+            "description": "Neste minicurso, você explorará as principais diferenças entre modelos de inteligência artificial disponíveis no mercado e aqueles customizados para necessidades específicas. Entenda quais modelos estão acessíveis para uso público, como maximizar seu potencial, e mergulhe nas ferramentas mais modernas para a customização de modelos privados, como Ollama, GPT4All e AnythingLLM. Além disso, veja exemplos práticos de como aplicar modelos privados para obter soluções sob medida e eficientes."
         }
     ]
 }
