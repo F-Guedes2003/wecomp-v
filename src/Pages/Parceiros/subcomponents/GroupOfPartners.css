@@ -29,6 +29,27 @@
     }
 }
 
+@media screen and (min-width: 1800px) {
+
+    .groupOfPartners {
+        column-gap: 9rem
+    }
+}
+
+@media screen and (min-width: 2000px) {
+
+    .groupOfPartners {
+        column-gap: 11rem
+    }
+}
+
+@media screen and (min-width: 2200px) {
+
+    .groupOfPartners {
+        column-gap: 14rem
+    }
+}
+
 @media screen and (max-width: 600px) {
     .groupOfPartners {
         display: flex;
