@@ -196,24 +196,6 @@
             "description": "Neste minicurso, você aprenderá os conceitos básicos do Git, capacitando-o a usar essa ferramenta no dia a dia. Também será apresentada uma visão geral do GitHub e como integrá-lo ao Vercel para realizar deploys automáticos de páginas web."
         },
         {
-            "id": 29.2,
-            "name": "Desenvolvimento frontend",
-            "subTitle": "Iniciação ao desenvolvimento Web com Angular para aplicações bancárias.",
-            "image": "../../eventsImages/Lucas.jpeg",
-            "imageDesc": "Gustavo Soad e Giulia Mazzutti Teixeira",
-            "bio": "Gustavo Soad atua como Gerente de Engenharia na F1RST. Giulia Mazzutti Teixeira é líder do time de desenvolvimento de funcionalidades de Cartões dos canais de atendimento C2 (agências) e C3 (call center), utilizando as tecnologias Angular para frontend e Java para backend. Graduada em Ciência da Computação (UFSCar), possui pós-graduação em Segurança da Informação (FIA) e cursa MBA em Gestão de Projetos (USP).",
-            "author": "Gustavo Soad e Giulia Mazzutti Teixeira",
-            "date": "05 de setembro",
-            "time": "08:30 às 11:30",
-            "link": "https://forms.gle/7BMKazi7Q4d9GPQy6",
-            "active": false,
-            "vacancies": 30,
-            "status": "EM BREVE!",
-            "location": "IFSP",
-            "classification": "Básico",
-            "description": "Desenvolvimento frontend: Iniciação ao desenvolvimento Web com Angular para aplicações bancárias."
-        },
-        {
             "id": 29.3,
             "name": "Introdução à Ciência de Dados com Python",
             "subTitle": "",
@@ -288,20 +270,39 @@
         {
             "id": 10.1,
             "name": "Palestra F1RST",
-            "subTitle": "Talk da F1RST",
+            "subTitle": "Palestras em dosa dupla: Arquiteturas de Solução e Teste de Software.",
             "image": "../../eventsImages/talkF1rst.png",
             "imageDesc": "F1RST",
-            "bio": "A F1RST promove serviços e experiências para os mais de 60 milhões de clientes de todo ecossistema Santander Brasil, Coligadas e Grupo Santander na América do Sul.",
+            "bio": "Palestra 1: Helida Luana de Sousa Oliveira Costa é Formada em Sistemas de Informação – Unicep, Especialista em Qualidade de Software pela Unisinos e Graduanda em Gestão de Projetos – Esalq USP.  Yuri Gregório é formado em Análise e Desenvolvimento de Sistemas pela FATEC Santos. Palestra 2: Leandro Martinez é arquiteto de solução com mais de 20 anos de experiência em TI, atuando no desenvolvimento e implementação de soluções personalizadas. Valdemar Abrao Pedro Anastacio é arquiteto de solução com aproximadamente cinco anos de experiência em TI e possui experiência de aproximadamente 10 anos como pesquisador, tem atuado no desenvolvimento de ferramentas para apoio a tomada de decisão que compreendem desenvolvimento  de software e pesquisa operacional/otimização.    Palestra 2: Rafael Vinicius Polato Passador é graduado em Ciência da Computação (UFSCar) e mestrando em Ciência da Computação (UFSCar).",
             "author": "Equipe F1RST",
             "date": "06 de setembro",
-            "time": "19:00",
+            "time": "19:00 às 21:00",
             "link": "https://forms.gle/7BMKazi7Q4d9GPQy6",
             "active": false,
             "vacancies": 110,
             "status": "EM BREVE!",
             "location": "IFSP",
             "classification": "Básico",
-            "description": "Palestra da equipe F1RST"
+            "description": "A F1RST ministrará duas palestras:  \"Testes de Software e sua  Importância na Qualidade de Software.\" (19h às 20h) e \"Área de Arquitetura na Estação 33: como podemos melhorar a produtividade de equipes internas pela adoção de plataformas globais impulsionadas pela inteligência artificial.\" (20h às 21h)."
+        },
+
+        {
+            "id": 10.2,
+            "name": "Dominando Modelos de IA",
+            "subTitle": "Públicos e Privados",
+            "image": "../../eventsImages/talkF1rst.png",
+            "imageDesc": "F1RST",
+            "bio": "Ricardo Carneiro possui grande conhecimento em plataformas Microsoft, com uma sólida base técnica em diversas tecnologias e ferramentas. Tem vasta experiência em .NET, além de habilidades avançadas em tecnologias de infraestrutura como Docker, Kubernetes, AKS e Azure. Já atuou com integração de sistemas utilizando RabbitMQ, Azure Service Bus e MassTransit. Ao longo de sua carreira, desenvolveu uma variedade de aplicações, incluindo APIs Web (Core e Standard), aplicativos integrados com microscópios digitais e sistemas automatizados de postagem em redes sociais. Também possui experiência com  extração de dados por meio de Web Scrapping e o trabalho com diversos bancos de dados, como SQL Server, Oracle, PostgreSQL, MongoDB e RavenDB.",
+            "author": "Ricardo Carneiro e Fabiano Passos (DOMVS IT)",
+            "date": "06 de setembro",
+            "time": "14:00 às 17",
+            "link": "https://forms.gle/7BMKazi7Q4d9GPQy6",
+            "active": false,
+            "vacancies": 30,
+            "status": "EM BREVE!",
+            "location": "IFSP",
+            "classification": "Básico",
+            "description": "Neste minicurso, você explorará as principais diferenças entre modelos de inteligência artificial disponíveis no mercado e aqueles customizados para necessidades específicas. Entenda quais modelos estão acessíveis para uso público, como maximizar seu potencial, e mergulhe nas ferramentas mais modernas para a customização de modelos privados, como Ollama, GPT4All e AnythingLLM. Além disso, veja exemplos práticos de como aplicar modelos privados para obter soluções sob medida e eficientes."
         }
     ]
 }
