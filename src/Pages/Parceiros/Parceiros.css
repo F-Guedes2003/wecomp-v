@@ -9,6 +9,10 @@
     padding-top: 10%;
 }
 
+.card-background {
+    max-width: 1300px;
+}
+
 .partnersTile {
     background-color: rgba(164, 149, 235, 0.25) 9%, ;
     width: 90%;
@@ -30,12 +34,28 @@
     padding-bottom: 5%;
 }
 
+@media screen and (min-width: 450px){
+    .card-background {
+        width: 75vw;
+    }
+}
+
 @media screen and (min-width: 1024px) {
+    .card-background {
+        width: 80vw;
+    }
+
     .staff {
         display: flex;
         flex-direction: row;
         justify-content: center;
-        gap: 12rem;
+        gap: 7rem;
+    }
+}
+
+@media screen and (min-width: 1330px) {
+    .card-background {
+        width: 65vw;
     }
 }
 
@@ -107,6 +127,7 @@
 }
 
 @media screen and (max-width: 430px) {
+
     .partnersTile {
         padding-top: 0;
     }

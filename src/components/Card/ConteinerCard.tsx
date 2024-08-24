@@ -4,7 +4,7 @@ import { Card } from "@chakra-ui/react";
 interface iConteinerCardProps {
   children: React.ReactNode | React.ReactNode[];
   heigth: string;
-  width: string | { base: string; md: string; lg: string };
+  width?: string | { base: string; md: string; lg: string };
   padding?: string;
 }
 
@@ -20,6 +20,7 @@ export default function ConteinerCard({ children, heigth, width, padding }: iCon
       mb={"2%"}
       pb={padding}
       pt={padding}
+      className="card-background"
     >
       {children}
     </Card>

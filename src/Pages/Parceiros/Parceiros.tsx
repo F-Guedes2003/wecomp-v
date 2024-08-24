@@ -34,12 +34,12 @@ export default function Parceiros({ isLandscape }: IParceirosProps) {
     fetchPartners();
   }, []);
 
-  const width = useBreakpointValue({ base: "75vw", md: "70vw", lg: "182vh" }) ?? "80vw";
+  // const width = useBreakpointValue({ base: "75vw", md: "70vw", lg: "182vh" }) ?? "80vw";
 
   return (
     <div id="parceiros" className={`partners ${isLandscape ? "partners-landscape" : ""}`}>
       <div className="conteinerCard">
-        <ConteinerCard heigth="auto" width={width} padding={"1rem"}>
+        <ConteinerCard heigth="auto" padding={"1rem"}>
           <div className="partnersTile">
             {haspartner ? (
               <GroupOfPartners partners={supporters} text="Apoiadores" isLandscape={isLandscape} />

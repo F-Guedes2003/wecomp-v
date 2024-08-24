@@ -22,10 +22,11 @@
     padding-top: 1vh;
 }
 
-@media screen and (min-width: 1500px) {
+
+@media screen and (min-width: 1462px) {
 
     .groupOfPartners {
-        column-gap: 15rem
+        column-gap: 0px;
     }
 }
 
