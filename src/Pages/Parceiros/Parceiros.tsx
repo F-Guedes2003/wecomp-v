@@ -3,7 +3,6 @@ import { useState, useEffect } from "react";
 import AboutPartners from "./subcomponents/AboutPartners";
 import GroupOfPartners from "./subcomponents/GroupOfPartners";
 import ConteinerCard from "../../components/Card/ConteinerCard";
-import { useBreakpointValue } from "@chakra-ui/react";
 import GroupOfCollaborators from "./subcomponents/GroupOfCollaborators";
 
 interface IParceirosProps {
