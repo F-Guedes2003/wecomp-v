@@ -39,27 +39,6 @@
     }
 }
 
-@media screen and (min-width: 1500px) {
-
-    .partnersTile {
-        width: 100%;
-        padding-left: 0;
-        padding-right: 0;
-    }
-
-    .conteinerCard {
-        padding-top: 0;
-        padding-bottom: 5%;
-    }
-}
-
-@media screen and (min-width: 1900px) {
-
-    .staff {
-        gap: 24rem;
-    }
-}
-
 @media screen and (max-width: 1366px) {
 
     .partnersTile {
