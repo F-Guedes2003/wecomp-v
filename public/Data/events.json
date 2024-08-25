@@ -196,24 +196,6 @@
             "description": "Neste minicurso, você explorará as principais diferenças entre modelos de inteligência artificial disponíveis no mercado e aqueles customizados para necessidades específicas. Entenda quais modelos estão acessíveis para uso público, como maximizar seu potencial, e mergulhe nas ferramentas mais modernas para a customização de modelos privados, como Ollama, GPT4All e AnythingLLM. Além disso, veja exemplos práticos de como aplicar modelos privados para obter soluções sob medida e eficientes."
         },
         {
-            "id": 2.2,
-            "name": "Como sobreviver no terminal do Linux (Turma I)",
-            "subTitle": "",
-            "image": "../../eventsImages/carlao.jpeg",
-            "imageDesc": "Professor Carlão",
-            "bio": "É professor efetivo do IFSP (campus São Carlos), desde 2012. Possui doutorado em Geografia pela UNESP, no qual desenvolveu um software para produção e análise de informações geográficas com o auxílio de técnicas de computação inteligente (lógica Nebulosa e redes neurais artificiais). É mestre pela Escola Nacional de Ciências Estatísticas e Tecnólogo em Processamento de Dados pela Universidade Veiga de Almeida. Usuário de Linux desde 2005, colaborador e disseminador da filosofia do Software Livre. Vascaíno sofredor.",
-            "author": "Carlão Pereira",
-            "date": "02 de setembro",
-            "time": "8:30 às 11:30",
-            "link": "https://forms.gle/f72kvQKxCP6A9GXh7",
-            "active": true,
-            "vacancies": 30,
-            "status": "ESGOTADO!",
-            "location": "IFSP",
-            "classification": "Livre",
-            "description": "Este mini-curso apresentará uma breve história da filosofia do Software Livre e do surgimento do sistema operacional Linux, focando em seguida nos principais comandos para dominar o terminal e executar tarefas com agilidade e eficiência. Desde comandos básicos de navegação até operações mais avançadas, serão exploradas ferramentas essenciais para gestão de arquivos, instalação de programas, gerenciamento de processos, entre outros, de uma forma totalmente prática."
-        },
-        {
             "id": 3.1,
             "name": "Introdução ao Desenvolvimento de Modelos de Aprendizado de Máquina Produtivos",
             "subTitle": "",
@@ -320,6 +302,24 @@
             "location": "IFSP",
             "classification": "Livre",
             "description": "Este minicurso oferece uma introdução prática e teórica à Ciência de Dados, abordando os principais conceitos e ferramentas para quem deseja começar na área. Os participantes aprenderão a manipular e analisar dados com Pandas e Numpy, além de criar visualizações com Matplotlib e Seaborn. O curso inclui ainda uma introdução ao Machine Learning com Scikit-learn, envolvendo etapas como preparação de dados, treinamento de modelos e avaliação de desempenho."
+        },
+        {
+            "id": 2.2,
+            "name": "Como sobreviver no terminal do Linux (Turma I)",
+            "subTitle": "",
+            "image": "../../eventsImages/carlao.jpeg",
+            "imageDesc": "Professor Carlão",
+            "bio": "É professor efetivo do IFSP (campus São Carlos), desde 2012. Possui doutorado em Geografia pela UNESP, no qual desenvolveu um software para produção e análise de informações geográficas com o auxílio de técnicas de computação inteligente (lógica Nebulosa e redes neurais artificiais). É mestre pela Escola Nacional de Ciências Estatísticas e Tecnólogo em Processamento de Dados pela Universidade Veiga de Almeida. Usuário de Linux desde 2005, colaborador e disseminador da filosofia do Software Livre. Vascaíno sofredor.",
+            "author": "Carlão Pereira",
+            "date": "02 de setembro",
+            "time": "8:30 às 11:30",
+            "link": "https://forms.gle/f72kvQKxCP6A9GXh7",
+            "active": true,
+            "vacancies": 30,
+            "status": "ESGOTADO!",
+            "location": "IFSP",
+            "classification": "Livre",
+            "description": "Este mini-curso apresentará uma breve história da filosofia do Software Livre e do surgimento do sistema operacional Linux, focando em seguida nos principais comandos para dominar o terminal e executar tarefas com agilidade e eficiência. Desde comandos básicos de navegação até operações mais avançadas, serão exploradas ferramentas essenciais para gestão de arquivos, instalação de programas, gerenciamento de processos, entre outros, de uma forma totalmente prática."
         }
     ]
 }
