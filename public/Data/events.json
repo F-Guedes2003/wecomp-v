@@ -278,7 +278,7 @@
             "date": "05 de setembro",
             "time": "14:00 às 17:00",
             "link": "https://forms.gle/jTzYCN9T6zjFxc4h9",
-            "active": false,
+            "active": true,
             "vacancies": 30,
             "status": "ÚLTIMAS VAGAS!",
             "location": "IFSP",
