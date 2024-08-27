@@ -118,7 +118,7 @@
             "link": "https://forms.gle/2cpPR9vLC42thDzm6",
             "active": true,
             "vacancies": 30,
-            "status": "ÚLTIMAS VAGAS!",
+            "status": "ESGOTADO!",
             "location": "IFSP",
             "classification": "Básico",
             "description": "Este curso abrange o desenvolvimento com React e Redux. Começamos com os fundamentos do React: componentes, JSX, state e props. Vamos explorar o gerenciamento de estado local com useState e useEffect. Em seguida, iremos abordar o Redux, incluindo conceitos básicos, principais erros na utilização, boas práticas, Redux Toolkit, slices, RTK Query, e a integração com React. Iremos finalizar com um exemplo prático de lista de tarefas, conectando componentes ao store e utilizando Redux DevTools para debugging."
