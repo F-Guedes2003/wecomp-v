@@ -82,7 +82,7 @@
             "link": "https://forms.gle/C5GCdeMkECdz4mJ16",
             "active": true,
             "vacancies": 40,
-            "status": "VAGAS ABERTAS!",
+            "status": "ÚLTIMAS VAGAS!",
             "location": "IFSP",
             "classification": "Básico",
             "description": "Você aprenderá a dominar o Git Flow, um fluxo de trabalho eficiente para gerenciar projetos de software. Começando com uma revisão rápida dos conceitos básicos do Git, você será guiado por cada etapa do Git Flow, desde a criação de features até o lançamento de versões e correção de bugs. Além disso, exploraremos como integrar o Git Flow com pipelines de CI/CD para automatizar e otimizar o ciclo de desenvolvimento, garantindo entregas mais rápidas e de alta qualidade."
