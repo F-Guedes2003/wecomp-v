@@ -12,6 +12,7 @@ function EventStatus({ status }: EventStatusI) {
       break;
     case "ÚLTIMAS VAGAS!":
       status_color = "#FF9900";
+      font_size = "15px";
       break;
     case "VAGAS ABERTAS!":
       status_color = "#256600"
