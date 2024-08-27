@@ -277,7 +277,7 @@
             "date": "03 de setembro",
             "time": "08:30 às 11:30",
             "link": "https://forms.gle/2cpPR9vLC42thDzm6",
-            "active": true,
+            "active": false,
             "vacancies": 30,
             "status": "ESGOTADO!",
             "location": "IFSP",
