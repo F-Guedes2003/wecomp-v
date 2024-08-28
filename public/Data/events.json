@@ -10,8 +10,8 @@
             "date": "02 de setembro",
             "time": "19:00 às 21:00",
             "link": "https://www.sympla.com.br/abertura-da-v-semana-da-computacao-wecomp-do-ifsp-sao-carlos__2600401",
-            "active": true,
-            "status": "ÚLTIMAS VAGAS!",
+            "active": false,
+            "status": "ESGOTADO!",
             "location": "ONOVOLAB",
             "description": "A abertura oficial da V Wecomp acontecerá no ONOVOLAB e contará com a presença de empresas parceiras, uma mesa redonda e uma confraternização. Não perca!"
         },
@@ -28,7 +28,7 @@
             "link": "https://forms.gle/xNk6WAi8DD1iqb2B6",
             "active": true,
             "vacancies": 30,
-            "status": "VAGAS ABERTAS!",
+            "status": "ÚLTIMAS VAGAS!",
             "location": "IFSP",
             "classification": "Básico",
             "description": "Neste minicurso, você explorará as principais diferenças entre modelos de inteligência artificial disponíveis no mercado e aqueles customizados para necessidades específicas. Entenda quais modelos estão acessíveis para uso público, como maximizar seu potencial, e mergulhe nas ferramentas mais modernas para a customização de modelos privados, como Ollama, GPT4All e AnythingLLM. Além disso, veja exemplos práticos de como aplicar modelos privados para obter soluções sob medida e eficientes."
@@ -46,7 +46,7 @@
             "link": "https://forms.gle/MovFVWyjhdNoQYAP6",
             "active": true,
             "vacancies": 30,
-            "status": "VAGAS ABERTAS!",
+            "status": "ÚLTIMAS VAGAS!",
             "location": "IFSP",
             "classification": "Livre",
             "description": "Nesse minicurso iremos aprender como criar uma API usando o FastAPI, que é um dos frameworks mais populares para desenvolvimento web com Python. Através de um exemplo mão na massa, venha conhecer sobre o protocolo HTTP, a arquitetura REST e o conceito das operações CRUD. Necessário saber o básico de Python para conseguir acompanhar o conteúdo prático."
@@ -64,7 +64,7 @@
             "link": "https://forms.gle/aXriPR73gHEgqBPP9",
             "active": true,
             "vacancies": 220,
-            "status": "VAGAS ABERTAS!",
+            "status": "ÚLTIMAS VAGAS!",
             "location": "IFSP",
             "classification": "Livre",
             "description": "Nesta palestra será oferecida uma visão geral da Xmobots e como aplicamos a Engenharia de Software na prática."
@@ -82,7 +82,7 @@
             "link": "https://forms.gle/NtnxFbgvJDNjBcw76",
             "active": true,
             "vacancies": 110,
-            "status": "VAGAS ABERTAS!",
+            "status": "ÚLTIMAS VAGAS!",
             "location": "IFSP",
             "classification": "Livre",
             "description": "Palestra da Compass UOL."
@@ -100,7 +100,7 @@
             "link": "https://forms.gle/RfQzHaEGLJienosP9",
             "active": true,
             "vacancies": 110,
-            "status": "VAGAS ABERTAS!",
+            "status": "ÚLTIMAS VAGAS!",
             "location": "IFSP",
             "classification": "Livre",
             "description": "Neste encontro, vamos explorar como a inovação colaborativa pode ser a chave para encantar clientes e entregar soluções de alta qualidade. Através de estratégias práticas, discutiremos como equipes multidisciplinares podem trabalhar juntas de forma eficaz para criar produtos e serviços que não só atendam, mas superem as expectativas dos clientes. Esta palestra é ideal para profissionais e estudantes que desejam aprimorar suas habilidades em trabalho em equipe e inovação, impulsionando suas carreiras e impactando positivamente o mercado."
@@ -157,24 +157,6 @@
             "location": "IFSP",
             "classification": "Básico",
             "description": "Você aprenderá a dominar o Git Flow, um fluxo de trabalho eficiente para gerenciar projetos de software. Começando com uma revisão rápida dos conceitos básicos do Git, você será guiado por cada etapa do Git Flow, desde a criação de features até o lançamento de versões e correção de bugs. Além disso, exploraremos como integrar o Git Flow com pipelines de CI/CD para automatizar e otimizar o ciclo de desenvolvimento, garantindo entregas mais rápidas e de alta qualidade."
-        },
-        {
-            "id": 4.1,
-            "name": "Visita técnica a F1RST com palestra dupla.",
-            "subTitle": "",
-            "image": "../../eventsImages/visita.jpeg",
-            "imageDesc": "F1RST",
-            "bio": "Palestra 1: Carlos Henrique Meirelles é Gestor da Estação 33 - polo de inovação da F1RST Santander em São Carlos-SP, um espaço inovador e multidiciplinar com mais de 270 profissionais de TI. É Especialista em ESG, Gestão de Marketing e Gestão de Mudanças. Helida Luana de Sousa Oliveira Costa é COE de Qualidade na F1RST, formada em Sistemas de Informação – Unicep, Especialista em Qualidade de Software – Unisinos e Graduanda em Gestão de Projetos – Esalq USP. Palestra 2: Rafael Vinicius Polato Passador é graduado em Ciência da Computação (UFSCar) e mestrando em Ciência da Computação (UFSCar). Thiago Aparecido Goncalves da Costa é graduado em Ciência da Computação (UNIVEM) e mestre em Ciência da Computação e Matemática Computacional (USP).",
-            "author": "Carlos H. Meirelles, Helida Costa, Rafael Passador e Thiago da Costa.",
-            "date": "04 de setembro",
-            "time": "09:00 às 11:30",
-            "link": "https://forms.gle/aU5pLD38ccBfRCTq5",
-            "active": true,
-            "vacancies": 40,
-            "status": "ÚLTIMAS VAGAS!",
-            "location": "F1RST",
-            "classification": "Livre",
-            "description": "A visita técnica a Estação 33 da F1RST, situada no ONOVOLAB contará com duas palestras incríveis e detalhes do próximo processo seletivo. Palestra 1: \"F1RST Day: Como é Trabalhar na Estação 33?\". Palestra 2: \"Data Products na F1RST - Estação 33: Como criar produtos de dados e revolucionar a jornada do Cliente\""
         },
         {
             "id": 6.1,
@@ -282,6 +264,24 @@
             "location": "IFSP",
             "classification": "Básico",
             "description": "Este curso abrange o desenvolvimento com React e Redux. Começamos com os fundamentos do React: componentes, JSX, state e props. Vamos explorar o gerenciamento de estado local com useState e useEffect. Em seguida, iremos abordar o Redux, incluindo conceitos básicos, principais erros na utilização, boas práticas, Redux Toolkit, slices, RTK Query, e a integração com React. Iremos finalizar com um exemplo prático de lista de tarefas, conectando componentes ao store e utilizando Redux DevTools para debugging."
+        },
+        {
+            "id": 4.1,
+            "name": "Visita técnica a F1RST com palestra dupla.",
+            "subTitle": "",
+            "image": "../../eventsImages/visita.jpeg",
+            "imageDesc": "F1RST",
+            "bio": "Palestra 1: Carlos Henrique Meirelles é Gestor da Estação 33 - polo de inovação da F1RST Santander em São Carlos-SP, um espaço inovador e multidiciplinar com mais de 270 profissionais de TI. É Especialista em ESG, Gestão de Marketing e Gestão de Mudanças. Helida Luana de Sousa Oliveira Costa é COE de Qualidade na F1RST, formada em Sistemas de Informação – Unicep, Especialista em Qualidade de Software – Unisinos e Graduanda em Gestão de Projetos – Esalq USP. Palestra 2: Rafael Vinicius Polato Passador é graduado em Ciência da Computação (UFSCar) e mestrando em Ciência da Computação (UFSCar). Thiago Aparecido Goncalves da Costa é graduado em Ciência da Computação (UNIVEM) e mestre em Ciência da Computação e Matemática Computacional (USP).",
+            "author": "Carlos H. Meirelles, Helida Costa, Rafael Passador e Thiago da Costa.",
+            "date": "04 de setembro",
+            "time": "09:00 às 11:30",
+            "link": "https://forms.gle/aU5pLD38ccBfRCTq5",
+            "active": false,
+            "vacancies": 40,
+            "status": "ESGOTADO!",
+            "location": "F1RST",
+            "classification": "Livre",
+            "description": "A visita técnica a Estação 33 da F1RST, situada no ONOVOLAB contará com duas palestras incríveis e detalhes do próximo processo seletivo. Palestra 1: \"F1RST Day: Como é Trabalhar na Estação 33?\". Palestra 2: \"Data Products na F1RST - Estação 33: Como criar produtos de dados e revolucionar a jornada do Cliente\""
         },
         {
             "id": 29.1,
